@@ -18,3 +18,7 @@ The bot must have ``manage_roles`` permission and you must have ``manage_message
 5. ``mute_role_id``: The ``Muted`` role id. Defaults to none. If this is not set, muting or unmuting the member is not possible.
 
 See also ``docs/Moderation/Moderation Actions/unmute.rst``.
+
+****
+
+Command usage syntax: []: Required argument | (): Optional argument
