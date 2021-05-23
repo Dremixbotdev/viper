@@ -3,7 +3,7 @@ Profanity filter
 The bot's profanity filter contains over 900+ blacklisted bad words with them covering over 20k+ modified spellings(https://en.wikipedia.org/wiki/Leet). Due to security reasons, 
 all the blacklisted words cannot be shared here.
 
-If ``merry`` is a blacklisted word, the word ``m33ry`` will also be blacklisted because the number 3 would be substituted for the letter E.
+If ``merry`` is a blacklisted word, the word ``m3rry`` will also be blacklisted because the number 3 would be substituted for the letter E.
 
 **Profanity Filter Settings**
 
