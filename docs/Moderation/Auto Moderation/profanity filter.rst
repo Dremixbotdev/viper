@@ -7,9 +7,9 @@ If ``merry`` is a blacklisted word, the word ``m33ry`` will also be blacklisted 
 
 **Profanity Filter Settings**
 
-1.``profanity_whitelisted_users``: White listed users from the profanity filter. Defualt value: none.
-2.``profanity_whitelisted_roles``: White listed roles from the profanity filter. Defualt value: none.
-3.``profanity_whitelisted_channels``: White listed channels from the profanity filter. Defualt value: none.
+1. ``profanity_whitelisted_users``: White listed users from the profanity filter. Defualt value: none.
+2. ``profanity_whitelisted_roles``: White listed roles from the profanity filter. Defualt value: none.
+3. ``profanity_whitelisted_channels``: White listed channels from the profanity filter. Defualt value: none.
 
 **Note: Any user with `manage_messages` permission will automatically be whitelisted from the filter.**
 
