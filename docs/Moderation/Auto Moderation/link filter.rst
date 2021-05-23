@@ -5,9 +5,9 @@ The bot uses a professionaly created link filter, which checks for links as well
 
 **Link Filter Settings**
 
-1.``link_whitelisted_users``: White listed users from the link filter. Defualt value: none.
-2.``link_whitelisted_roles``: White listed roles from the link filter. Defualt value: none.
-3.``link_whitelisted_channels``: White listed channels from the link filter. Defualt value: none.
+1. ``link_whitelisted_users``: White listed users from the link filter. Defualt value: none.
+2. ``link_whitelisted_roles``: White listed roles from the link filter. Defualt value: none.
+3. ``link_whitelisted_channels``: White listed channels from the link filter. Defualt value: none.
 
 **Note: Any user with `manage_messages` permission will automatically be whitelisted from the filter.**
 
